@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 [![csdn](https://img.shields.io/badge/csdn-阿叶Ayeez-red?logo=csdn)](https://www.zhihu.com/people/71-12-85-62-28)
 [![xiaohongshu](https://img.shields.io/badge/小红书-阿叶Ayeez-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=2226b18749c14ff1a1ac1564bee95fac&share_channel=copy_link)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayeez757&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayeez757&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
