@@ -39,6 +39,13 @@ Here are some ideas to get you started:
 [![xiaohongshu](https://img.shields.io/badge/小红书-阿叶Ayeez-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=2226b18749c14ff1a1ac1564bee95fac&share_channel=copy_link)
 
 ## 完全不完全统计......
+语言使用时间：
+
+![](https://raw.githubusercontent.com/Ayeez757/Ayeez757/main/images/wakatime_weekly_language_stats.svg)
+
+项目花费时间：
+
+![](https://raw.githubusercontent.com/Ayeez757/Ayeez757/main/images/wakatime_weekly_project_stats.svg)
 
 <!--START_SECTION:waka-->
 
