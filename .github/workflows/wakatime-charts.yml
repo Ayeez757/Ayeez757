@@ -10,7 +10,7 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: dvjn/wakatime-charts@main
+      - uses: dvjn/wakatime-charts@master
         with:
           BRANCH_NAME: main
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
