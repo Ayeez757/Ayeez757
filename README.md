@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML   4 mins          ███████████████░░░░░░░░░░   60.01 %
+Java   2 mins          ██████████░░░░░░░░░░░░░░░   39.97 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
