@@ -12,5 +12,6 @@ jobs:
     steps:
       - uses: dvjn/wakatime-charts@main
         with:
+          BRANCH_NAME: main
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
