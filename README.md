@@ -50,9 +50,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   4 mins          ███████████████░░░░░░░░░░   60.01 %
-Java   2 mins          ██████████░░░░░░░░░░░░░░░   39.97 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java              2 hrs 51 mins   █████████████████▓░░░░░░░   70.42 %
+Vue.js            28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Markdown          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Java Properties   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Python            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
