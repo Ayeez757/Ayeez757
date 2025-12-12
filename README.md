@@ -1,4 +1,4 @@
-# Hi  👋  -> [这是我的博客超链接，可以来这里认识我！](https://blog.ayeez.cn) <-
+# Hi  👋  -> [这是我的个人主页超链接，可以来这里认识我！](https://ayeez.cn) <-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=40&duration=2500&pause=100&color=49E6F7&vCenter=true&repeat=false&width=436&height=60&lines=%E6%88%91%E5%8F%AB+%E9%98%BF%E5%8F%B6Ayeez+%EF%BC%81)](https://git.io/typing-svg)
 ## 很高兴认识你
 
