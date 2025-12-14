@@ -26,7 +26,6 @@ Here are some ideas to get you started:
  - 涉及：c、c++、python、javascript、vue
  - IP:广东
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeez757)
 
 ## 一些社交账号
 
