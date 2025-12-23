@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## 完全不完全统计......
 语言使用时间：
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeez757)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeez757&cache_seconds=1800)
 
 ![](https://raw.githubusercontent.com/Ayeez757/Ayeez757/main/images/wakatime_weekly_language_stats.svg)
 
