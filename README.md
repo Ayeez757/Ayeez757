@@ -40,25 +40,18 @@ Here are some ideas to get you started:
 ## 完全不完全统计......
 语言使用时间：
 
+![](https://wakatime.com/badge/user/923b7fe9-128b-4a46-b1d9-d4494ac957da.svg)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeez757&cache_seconds=1800&layout=compact)
+
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeez757&cache_seconds=1800)
 
-![](https://raw.githubusercontent.com/Ayeez757/Ayeez757/main/images/wakatime_weekly_language_stats.svg)
 
-项目花费时间：
+<!--项目花费时间：-->
 
-![](https://raw.githubusercontent.com/Ayeez757/Ayeez757/main/images/wakatime_weekly_project_stats.svg)
+<!-- ![](https://raw.githubusercontent.com/Ayeez757/Ayeez757/main/images/wakatime_weekly_project_stats.svg) -->
 
-<!--START_SECTION:waka-->
 
-```txt
-Java               3 hrs 45 mins   ███████████████░░░░░░░░░░   59.79 %
-Python             48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-YAML               30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-XML                29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Markdown           25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-```
-
-<!--END_SECTION:waka-->
 
 ## 一些仓库的star情况(emmmm....)
 
