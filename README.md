@@ -42,9 +42,15 @@ Here are some ideas to get you started:
 
 ![](https://wakatime.com/badge/user/923b7fe9-128b-4a46-b1d9-d4494ac957da.svg)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeez757&cache_seconds=1800&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Ayeez757&cache_seconds=1800&layout=compact)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeez757&cache_seconds=1800)
+![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Ayeez757)<!--(https://github.com/Pranesh-2005/github-readme-stats-fast)-->
+
+
+
+<!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeez757&cache_seconds=1800&layout=compact)-->
+
+<!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayeez757&cache_seconds=1800)-->
 
 
 <!--项目花费时间：-->
