@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 <!-- ![](https://raw.githubusercontent.com/Ayeez757/Ayeez757/main/images/wakatime_weekly_project_stats.svg) -->
 
 
-
+<!--
 ## 一些仓库的star情况(emmmm....)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ayeez757/ayeez757,ayeez757/learnBasicCodeOfJava,ayeez757/accounting_system,ayeez757/ayeez757.github.io,ayeez757/ayeezpage&type=date&legend=bottom-right)](https://www.star-history.com/#ayeez757/ayeez757&ayeez757/learnBasicCodeOfJava&ayeez757/accounting_system&ayeez757/ayeez757.github.io&ayeez757/ayeezpage&type=date&legend=bottom-right)
-
+-->
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayeez757&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
