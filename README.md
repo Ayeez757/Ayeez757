@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  - 喜欢瞎折腾的小趴菜，有众多自己的业余爱好
  - 例如：画画，弹钢琴，做饭，乒乓球，中长跑，排球，我的世界（游戏），中式建筑，生电（我的世界），魔方，骑行，桌球，国际象棋，摄影，手工木作，股市赌狗，发射器玩具，喝茶，写博客等
  - 一些奇怪的技能：双手都能写字......
- - 技术栈: Java、html、css、git、astro、uniapp、MySQL、Springboot、Maven、Ajax、JDBC、mybatis、log4j、sl4j、nginx
+ - 技术栈: Java、html、css、git、docker、linus、astro、MySQL、Springboot、Maven、Ajax、JDBC、mybatis、log4j、sl4j、nginx、uniapp、elementplus、GitHub Action
  - 涉及: c、c++、python、javascript、vue、logback、MongoDB、Ajax
  - IP:广东
 
