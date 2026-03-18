@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ## 一些社交账号
 
 [![blog](https://img.shields.io/badge/博客-阿叶Ayeez-green)](https://blog.ayeez.cn)
+[![dev-blog](https://img.shields.io/badge/新博客（开发中）-阿叶Ayeez-green)](https://dev-blog.ayeez.cn)
 [![Bilibili](https://img.shields.io/badge/阿叶Ayeez-pink.svg?logo=Bilibili)](https://space.bilibili.com/499974079)
 [![tiktok]( https://img.shields.io/badge/抖音-阿叶Ayeez-black.svg?logo=Tiktok)](https://www.douyin.com/user/MS4wLjABAAAArHlMaFbHsJL__6xl2PdkHefaBuKlXbyhZZ8wPGwfb6s)
 
