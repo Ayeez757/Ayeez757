@@ -64,13 +64,13 @@ Here are some ideas to get you started:
 ## 一些社交账号
 
 [![blog](https://img.shields.io/badge/博客-阿叶Ayeez-green)](https://blog.ayeez.cn)
-[![dev-blog](https://img.shields.io/badge/旧博客-阿叶Ayeez-green)](https://butterfly.ayeez.cn)
+[![dev-blog](https://img.shields.io/badge/旧博客(已停止维护)-阿叶Ayeez-green)](https://butterfly.ayeez.cn)
 [![Bilibili](https://img.shields.io/badge/阿叶Ayeez-pink.svg?logo=Bilibili)](https://space.bilibili.com/499974079)
 [![tiktok]( https://img.shields.io/badge/抖音-阿叶Ayeez-black.svg?logo=Tiktok)](https://www.douyin.com/user/MS4wLjABAAAArHlMaFbHsJL__6xl2PdkHefaBuKlXbyhZZ8wPGwfb6s)
 
-[![zhihu](https://img.shields.io/badge/知乎-阿叶Ayeez-blue.svg?logo=zhihu)](https://www.zhihu.com/people/71-12-85-62-28)
+<!--[![zhihu](https://img.shields.io/badge/知乎-阿叶Ayeez-blue.svg?logo=zhihu)](https://www.zhihu.com/people/71-12-85-62-28)
 [![csdn](https://img.shields.io/badge/csdn-阿叶Ayeez-red?logo=csdn)](https://www.zhihu.com/people/71-12-85-62-28)
-[![xiaohongshu](https://img.shields.io/badge/小红书-阿叶Ayeez-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=2226b18749c14ff1a1ac1564bee95fac&share_channel=copy_link)
+[![xiaohongshu](https://img.shields.io/badge/小红书-阿叶Ayeez-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=2226b18749c14ff1a1ac1564bee95fac&share_channel=copy_link)-->
 
 ## 完全不完全统计......
 语言使用时间：
