@@ -152,8 +152,8 @@ Here are some ideas to get you started:
     </tr>
     <!-- 项目 3 -->
     <tr>
-      <td><strong>个人博客系统</strong></td>
-      <td>独立开发者<br><i>2026.04 - 至今</i></td>
+      <td><strong>AyeezBlog(个人博客)</strong></td>
+      <td>独立开发者<br><i>2026.02 - 长期维护</i></td>
       <td>
         <code>Spring Boot</code> <code>Thymeleaf</code><br>
         <code>MySQL</code> <code>Redis</code><br>
