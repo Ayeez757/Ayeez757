@@ -117,7 +117,7 @@ Here are some ideas to get you started:
     <!-- 项目 1 -->
     <tr>
       <td><strong>校园易取通</strong></td>
-      <td>核心开发者<br><i>2026.04 - 至今</i></td>
+      <td>后端研发 + 运维<br><i>2026.04 - 至今</i></td>
       <td>
         <code>Spring Boot 3</code> <code>MySQL</code> <code>Redis</code><br>
         <code>RabbitMQ</code> <code>MQTT</code> <code>K8s</code><br>
@@ -135,7 +135,7 @@ Here are some ideas to get you started:
     <!-- 项目 2 -->
     <tr>
       <td><strong>校园论坛</strong></td>
-      <td>核心开发者<br><i>2026.04 - 至今</i></td>
+      <td>后端架构师 + 运维<br><i>2026.04 - 至今</i></td>
       <td>
         <code>Spring Boot</code> <code>MySQL</code> <code>MyBatis</code><br>
         <code>Redis</code> <code>RabbitMQ</code><br>
