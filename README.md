@@ -152,7 +152,7 @@ Here are some ideas to get you started:
     </tr>
     <!-- 项目 3 -->
     <tr>
-      <td><strong>AyeezBlog(个人博客)</strong></td>
+      <td><strong><a href="https://github.com/Ayeez757/AyeezBlog">AyeezBlog(个人博客)</a></strong></td>
       <td>独立开发者<br><i>2026.02 - 长期维护</i></td>
       <td>
         <code>Spring Boot</code> <code>Thymeleaf</code><br>
