@@ -77,7 +77,9 @@ Here are some ideas to get you started:
 
 ![](https://wakatime.com/badge/user/923b7fe9-128b-4a46-b1d9-d4494ac957da.svg)
 
-![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Ayeez757&cache_seconds=1800&layout=compact)
+![Ayeez's WakaTime stats](https://stats.ayeez.cn/api/wakatime?username=Ayeez757&cache_seconds=1800&layout=compact)
+
+
 
 <!--![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Ayeez757)--><!--(https://github.com/Pranesh-2005/github-readme-stats-fast)-->
 
@@ -102,7 +104,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayeez757&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### GitHub stats
-[![ayeez757's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeez757&show_icons=true)](https://github.com/ayeez757/github-readme-stats)
+![GitHub stats](https://stats.ayeez.cn/api?username=Ayeez757&show_icons=true)
+
 
 ### 🚀 项目经验
 
