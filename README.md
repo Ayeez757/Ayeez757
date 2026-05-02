@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ![](https://wakatime.com/badge/user/923b7fe9-128b-4a46-b1d9-d4494ac957da.svg)
 
-![Ayeez's WakaTime stats](https://stats.ayeez.cn/api/wakatime?username=Ayeez757&cache_seconds=1800&layout=compact)
+![Ayeez's WakaTime stats](https://stats.ayeez.cn/api/wakatime?username=Ayeez757&cache_seconds=1800&layout=compact&v=2)
 
 
 
