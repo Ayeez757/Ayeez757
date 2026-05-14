@@ -120,6 +120,7 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <!-- 项目 1 -->
+   <!--
     <tr>
       <td><strong>校园易取通</strong></td>
       <td>后端研发 + 运维<br><i>2026.04 - 至今</i></td>
@@ -137,7 +138,9 @@ Here are some ideas to get you started:
         </ul>
       </td>
     </tr>
+   -->
     <!-- 项目 2 -->
+   <!--
     <tr>
       <td><strong>校园论坛</strong></td>
       <td>后端架构师 + 运维<br><i>2026.04 - 至今</i></td>
@@ -154,7 +157,7 @@ Here are some ideas to get you started:
           <li><strong>全链路监控：</strong>集成 Netty/WebSocket 构建长连接网关，支持实时消息推送；结合 Docker + Jenkins 实现持续交付。</li>
         </ul>
       </td>
-    </tr>
+    </tr>-->
     <!-- 项目 3 -->
     <tr>
       <td><strong><a href="https://github.com/Ayeez757/AyeezBlog">AyeezBlog(个人博客)</a></strong></td>
