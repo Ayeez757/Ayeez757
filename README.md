@@ -163,8 +163,8 @@ Here are some ideas to get you started:
       <td><strong><a href="https://github.com/Ayeez757/AyeezBlog">AyeezBlog(个人博客)</a></strong></td>
       <td>独立开发者<br><i>2026.02 - 长期维护</i></td>
       <td>
-        <code>Spring Boot</code> <code>Thymeleaf</code><br>
-        <code>MySQL</code> <code>Redis</code><br>
+        <code>Spring Boot</code><br>
+        <code>MySQL</code><br>
         <code>Docker</code> <code>Nginx</code>
       </td>
       <td>
